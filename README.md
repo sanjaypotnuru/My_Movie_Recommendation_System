@@ -9,4 +9,9 @@
 
 <img width="957" alt="image" src="https://github.com/sanjaypotnuru/My_Movie_Recommendation_System/assets/105508197/b32619d4-8d5e-4ca6-8c2d-5854ad903a44">
 
-<img width="951" alt="image" src="https://github.com/sanjaypotnuru/My_Movie_Recommendation_System/assets/105508197/ecf20862-258a-48ea-ab6f-2dfac87c0e81">
+<img width="957" alt="image" src="https://github.com/sanjaypotnuru/My_Movie_Recommendation_System/assets/105508197/f4b446b3-aeb2-4650-a929-eec37fd14868">
+
+-->After clicking on the hyper link "THE DARK KNIGHT"
+    
+    <img width="958" alt="image" src="https://github.com/sanjaypotnuru/My_Movie_Recommendation_System/assets/105508197/d1e09a5a-84e6-4863-9bf5-47d640e62bf3">
+
